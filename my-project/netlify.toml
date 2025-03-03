@@ -6,4 +6,7 @@
   from = "/*"
   to = "/index.html"
   status = 200
+  
+[build.environment]
+  GO_VERSION = "1.19"
 
